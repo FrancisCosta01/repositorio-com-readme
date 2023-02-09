@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo de README
 
-[<img src="./tela.gif" alt="gif da tela inicial simbolo kali">]
+<img src="./tela.gif" alt="gif da tela inicial simbolo kali">
 
 ## Tecnologias utilizadas 
 - HTML
